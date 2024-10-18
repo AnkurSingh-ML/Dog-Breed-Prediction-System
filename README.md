@@ -44,3 +44,8 @@ The **Dog Breed Prediction System** aims to **identify the breed of a dog based 
 3. **Configuration:**
    - Ensure your localhost and port match the settings specified in the `package.json` "proxy".
 
+---
+
+## **Video Demo:**
+You can watch the demo video [here](https://github.com/yourusername/Dog-Breed-Prediction-System/raw/main/.mp4).
+
