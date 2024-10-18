@@ -2,7 +2,6 @@
 
 The **Dog Breed Prediction System** aims to **identify the breed of a dog based on an uploaded image**. 
 
-![Dog Breed Prediction](https://example.com/your-image.png) <!-- Replace with an actual image URL -->
 
 ---
 
