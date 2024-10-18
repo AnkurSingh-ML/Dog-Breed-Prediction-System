@@ -44,10 +44,3 @@ The **Dog Breed Prediction System** aims to **identify the breed of a dog based 
 3. **Configuration:**
    - Ensure your localhost and port match the settings specified in the `package.json` "proxy".
 
----
-
-## 📞 Get In Touch
-For any inquiries or contributions, feel free to reach out!
-
-- [Your Name](https://example.com) <!-- Add your profile link -->
-- [Your GitHub](https://github.com/yourusername) <!-- Add your GitHub link -->
